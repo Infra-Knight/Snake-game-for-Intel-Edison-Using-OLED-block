@@ -10,4 +10,4 @@ Make sure you have installed necessary drivers and softwares. For Windows, you h
 
 Once you’ve loaded the code, navigate to the “oledSnake” folder and type make. Then run with command "./oled_snake".
 
-![](snake-game.jpg)
+![](snake-game.png)
