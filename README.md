@@ -8,6 +8,6 @@ Make sure you have installed necessary drivers and softwares. For Windows, you h
 3. After you have opened up the serial port, try hitting enter a couple times. If all goes well, the Edison should respond with a login prompt. The default Edison login is root and no password.
 
 
-Once you’ve loaded the code, navigate to the “oledSnake” folder and type make. Then run with command "./oled_snake".
+Once you’ve loaded the code, navigate to the “oledSnake” folder (the one that contains makefile) and type make. Then run with command "./oled_snake".
 
 ![](snake-game.png)
